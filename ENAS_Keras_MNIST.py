@@ -19,7 +19,7 @@ from src.utils import sgdr_learning_rate
 
 
 # Load MNIST
-
+# benethuang
 
 child_classes = 10
 
