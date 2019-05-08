@@ -8,7 +8,7 @@ from copy import deepcopy
 import keras
 from keras import backend as K
 from keras.utils import to_categorical
-from keras.optimizers import Adam
+from keras.optimizers import Adam, SGD
 from keras.datasets import mnist
 from keras.callbacks import EarlyStopping, LearningRateScheduler
 
