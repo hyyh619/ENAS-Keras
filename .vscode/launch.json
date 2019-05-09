@@ -19,6 +19,14 @@
             "program": "${file}",
             "console": "integratedTerminal",
             "pythonPath": "/home/hy/miniconda3/envs/tf-py36/bin/python"
+        },
+        {
+            "name": "Python-intel-centos: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "pythonPath": "/home/hy/Envs/tensorflow_python35/bin/python"
         }
     ]
 }
