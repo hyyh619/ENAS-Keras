@@ -5,12 +5,20 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Python: Current File",
+            "name": "Python-t450: Current File",
             "type": "python",
             "request": "launch",
             "program": "${file}",
             "console": "integratedTerminal",
             "pythonPath": "/home/hy/anaconda3/envs/tf-py36/bin/python"
+        },
+        {
+            "name": "Python-lenovo: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "pythonPath": "/home/hy/miniconda3/envs/tf-py36/bin/python"
         }
     ]
 }
